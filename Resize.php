@@ -67,14 +67,18 @@
     }
   }
 
+  //How to use?
+  //============================================================================
   // if(isset($_REQUEST['submit'])){
+
   //   $image = $_FILES;
-  //   $dir = "upload/";
-  //   $dir2 = "upload2/";
-  //   $dir3 = "upload3/";
+  //   $main_dir = "upload/";
+  //   $corp_dir = "upload2/";
   //   $name = rand(4,10000)."-".$image['image']['name'];
+  //you have to pass $_FILES on image static mehod
   //   Resize::image($_FILES);
-  //   Resize::makeImg($dir, $name, 300, 300, $dir2);
-  //   Resize::makeImg($dir, $name, 800, 460, $dir3,100);
+  //   Resize::makeImg($main_dir, $name, 300, 300, $main_dir);
+  //   
   // }
+  //============================================================================
     
