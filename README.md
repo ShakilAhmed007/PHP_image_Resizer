@@ -1,2 +1,2 @@
 # PHP_image_Resizer
-a lite weight php scrept for resize and crope imge
+a lite weight image resizer and croping tool.
